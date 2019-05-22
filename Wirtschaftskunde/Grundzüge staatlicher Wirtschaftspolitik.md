@@ -40,3 +40,29 @@ Instgesamzt ist ein Aufschwung der wirtschaftlichen Lage mit den Phasen zu beoba
 | Auftragseingang | Steigend | Stabil am höchsten | Sinkend | Stabil am niedrigsten |
 | Zinsniveau | Steigend | Stabil am höchsten | Sinkend | Stabil am niedrigsten |
 | Konsumneigung | Steigend | Stabil am höchsten | Sinkend | Stabil am niedrigsten |
+
+### Konjunkturindikatoren
+
+#### Frühindikator
+
+- Auftragseingänge bei Unternehmen
+- Kreditzusagen
+- Investitionsvolumen
+- Geschäftserwartung von Unternehmen
+- Baugenehmigungen im Hochbau
+
+#### Präsenzindikator (gleichlaufende Indikatoren)
+
+- Veränderung des BIP
+- Ausmaß Kurzarbeit
+- Investitionsvolumen
+- Kapazitätsauslastung
+- Produktionsindizes
+
+#### Spätindikatoren
+
+- Arbeitslosenquote
+- Ausmaß Kurzarbeit
+- Preisundizes
+
+### Ifo-Geschäftsklimaindex
